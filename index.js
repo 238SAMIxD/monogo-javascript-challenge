@@ -1,15 +1,16 @@
 const fetch = require('node-fetch');
 
-const buildingNumber = 14-1; // 14. budynek, więc indeks = 13
+const buildingNumber = 14;
 const companyName = "Monogo";
 
 fetch(`https://www.monogo.pl/competition/input.txt`)
     .then( response => response.json() )
     .then( json => {
         const grouped = group(json);
-        const filtered = filter(grouped);
+        const filtered = filter(json.selectedFilters, grouped);
         const multiplied = multiply(filtered);
         const additionArray = toArray(multiplied);
+        console.log(additionArray)
         const result = finalResult(multiplied, additionArray.reduce((previous, value) => {return value == buildingNumber ? value : previous}), companyName.length);
 
         console.log(`The final result is: ${result}`);
@@ -56,8 +57,8 @@ function group( json ) {
     return data;
 }
 
-function filter( data ) {
-    return data.filter(element => element.price > 200);
+function filter( filters, data ) {
+    return data.filter(element => { return element.price > 200 && filters.colors.includes(element.color) && filters.sizes.includes(element.size) });
 }
 
 function multiply( data ) {
