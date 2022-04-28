@@ -11,7 +11,7 @@ fetch(`https://www.monogo.pl/competition/input.txt`)
         const multiplied = multiply(filtered);
         const additionArray = toArray(multiplied);
         console.log(additionArray)
-        const result = finalResult(multiplied, additionArray.reduce((previous, value) => {return value == buildingNumber ? value : previous}), companyName.length);
+        const result = finalResult(multiplied, additionArray.reduce((previous, value, index) => {return value == buildingNumber ? index : previous}), companyName.length);
 
         console.log(`The final result is: ${result}`);
     });
