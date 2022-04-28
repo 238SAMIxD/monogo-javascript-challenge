@@ -1,0 +1,30 @@
+{
+  "name": "monogo-javascript-challenge",
+  "version": "1.0.0",
+  "description": "Rozwiązanie konkursu Monogo JavaScript Challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/238SAMIxD/monogo-javascript-challenge.git"
+  },
+  "keywords": [
+    "konkurs",
+    "monogo",
+    "javascript",
+    "js",
+    "challenge"
+  ],
+  "author": "Samuel Jędrzejewski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/238SAMIxD/monogo-javascript-challenge/issues"
+  },
+  "homepage": "https://github.com/238SAMIxD/monogo-javascript-challenge#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "nodejs": "0.0.0"
+  }
+}
