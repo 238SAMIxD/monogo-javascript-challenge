@@ -31,7 +31,7 @@ function group( json ) {
         element.id = parseInt(element.id);
 
         element.color = element.value;
-        delete element.size;
+        delete element.value;
 
         data[data.indexOf(newData)] = {
             ...newData,
@@ -45,7 +45,7 @@ function group( json ) {
         element.id = parseInt(element.id);
 
         element.size = element.value;
-        delete element.size;
+        delete element.value;
 
         data[data.indexOf(newData)] = {
             ...newData,
