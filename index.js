@@ -3,7 +3,7 @@ const fetch = require('node-fetch');
 const buildingNumber = 14;
 const companyName = "Monogo";
 
-fetch(`https://www.monogo.pl/competition/input.txt`)
+fetch(`https://github.com/238SAMIxD/monogo-javascript-challenge/blob/main/data.json`) // original url: https://www.monogo.pl/competition/input.txt
     .then( response => response.json() )
     .then( json => {
         const grouped = group(json);

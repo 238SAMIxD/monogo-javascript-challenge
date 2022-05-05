@@ -1,0 +1,1204 @@
+{ "selectedFilters": { "colors": ["black", "blue"], "sizes": [41, 43]
+},
+"products": [ { "id": 233, "price": 226.9
+  },
+  { "id": 303, "price": 633.33
+  },
+  { "id": 218, "price": 305.62
+  },
+  { "id": 300, "price": 491.11
+  },
+  { "id": 200, "price": 924.08
+  },
+  { "id": 333, "price": 253.51
+  },
+  { "id": 274, "price": 221.49
+  },
+  { "id": 305, "price": 448.35
+  },
+  { "id": 245, "price": 956.97
+  },
+  { "id": 279, "price": 13.29
+  },
+  { "id": 155, "price": 248.64
+  },
+  { "id": 151, "price": 255.81
+  },
+  { "id": 256, "price": 708.74
+  },
+  { "id": 223, "price": 673.46
+  },
+  { "id": 289, "price": 920.71
+  },
+  { "id": 294, "price": 764.06
+  },
+  { "id": 139, "price": 243.27
+  },
+  { "id": 194, "price": 928.16
+  },
+  { "id": 169, "price": 233.67
+  },
+  { "id": 268, "price": 921.33
+  },
+  { "id": 211, "price": 438.65
+  },
+  { "id": 166, "price": 822.97
+  },
+  { "id": 179, "price": 405.47
+  },
+  { "id": 175, "price": 953.92
+  },
+  { "id": 185, "price": 740.64
+  },
+  { "id": 327, "price": 518.79
+  },
+  { "id": 213, "price": 494.82
+  },
+  { "id": 252, "price": 449.99
+  },
+  { "id": 277, "price": 375.08
+  },
+  { "id": 286, "price": 906.66
+  },
+  { "id": 163, "price": 179.52
+  },
+  { "id": 198, "price": 877.49
+  },
+  { "id": 141, "price": 793.7
+  },
+  { "id": 281, "price": 16.57
+  },
+  { "id": 144, "price": 748.35
+  },
+  { "id": 142, "price": 44.99
+  },
+  { "id": 164, "price": 242.96
+  },
+  { "id": 238, "price": 657.09
+  },
+  { "id": 170, "price": 638.99
+  },
+  { "id": 199, "price": 434.9
+  },
+  { "id": 224, "price": 858.66
+  },
+  { "id": 138, "price": 210.52
+  },
+  { "id": 311, "price": 969.27
+  },
+  { "id": 220, "price": 357.94
+  },
+  { "id": 158, "price": 918.59
+  },
+  { "id": 195, "price": 926.58
+  },
+  { "id": 197, "price": 489.7
+  },
+  { "id": 255, "price": 839.22
+  },
+  { "id": 204, "price": 247.83
+  },
+  { "id": 257, "price": 977.07
+  },
+  { "id": 335, "price": 560.21
+  },
+  { "id": 312, "price": 538.09
+  },
+  { "id": 219, "price": 960.99
+  },
+  { "id": 161, "price": 221.84
+  },
+  { "id": 313, "price": 470.9
+  },
+  { "id": 240, "price": 475.48
+  },
+  { "id": 242, "price": 782.66
+  },
+  { "id": 235, "price": 639.75
+  },
+  { "id": 171, "price": 365.39
+  },
+  { "id": 184, "price": 241.43
+  },
+  { "id": 239, "price": 395.4
+  },
+  { "id": 226, "price": 469.98
+  },
+  { "id": 261, "price": 995.35
+  },
+  { "id": 210, "price": 49.17
+  },
+  { "id": 157, "price": 759.98
+  },
+  { "id": 282, "price": 629.74
+  },
+  { "id": 193, "price": 134.73
+  },
+  { "id": 150, "price": 712.01
+  },
+  { "id": 273, "price": 491.54
+  },
+  { "id": 188, "price": 646.62
+  },
+  { "id": 258, "price": 420.05
+  },
+  { "id": 156, "price": 61.54
+  },
+  { "id": 309, "price": 759.43
+  },
+  { "id": 205, "price": 152.62
+  },
+  { "id": 310, "price": 983.47
+  },
+  { "id": 232, "price": 696.33
+  },
+  { "id": 308, "price": 446.86
+  },
+  { "id": 192, "price": 793.22
+  },
+  { "id": 306, "price": 780.3
+  },
+  { "id": 228, "price": 472.72
+  },
+  { "id": 316, "price": 703.62
+  },
+  { "id": 253, "price": 777.92
+  },
+  { "id": 168, "price": 22.59
+  },
+  { "id": 212, "price": 667.23
+  },
+  { "id": 297, "price": 189.48
+  },
+  { "id": 244, "price": 170.41
+  },
+  { "id": 301, "price": 295.17
+  },
+  { "id": 299, "price": 328.68
+  },
+  { "id": 182, "price": 682.83
+  },
+  { "id": 287, "price": 438.77
+  },
+  { "id": 196, "price": 732.91
+  },
+  { "id": 237, "price": 545.58
+  },
+  { "id": 172, "price": 956.59
+  },
+  { "id": 284, "price": 577.5
+  },
+  { "id": 271, "price": 970.77
+  },
+  { "id": 318, "price": 221.18
+  },
+  { "id": 267, "price": 366.14
+  },
+  { "id": 243, "price": 784.06
+  },
+  { "id": 152, "price": 719.84
+  },
+  { "id": 209, "price": 54.75
+  },
+  { "id": 322, "price": 518.14
+  },
+  { "id": 222, "price": 752.9
+  },
+  { "id": 324, "price": 944.86
+  },
+  { "id": 276, "price": 912.93
+  },
+  { "id": 147, "price": 895.51
+  },
+  { "id": 221, "price": 807
+  },
+  { "id": 336, "price": 333.31
+  },
+  { "id": 202, "price": 217.16
+  },
+  { "id": 154, "price": 653.35
+  },
+  { "id": 328, "price": 456.77
+  },
+  { "id": 260, "price": 304.45
+  },
+  { "id": 250, "price": 835.22
+  },
+  { "id": 187, "price": 358.76
+  },
+  { "id": 216, "price": 915.09
+  },
+  { "id": 275, "price": 732.36
+  },
+  { "id": 160, "price": 552.6
+  },
+  { "id": 302, "price": 889
+  },
+  { "id": 225, "price": 89.7
+  },
+  { "id": 249, "price": 917.68
+  },
+  { "id": 167, "price": 521.7
+  },
+  { "id": 298, "price": 848.47
+  },
+  { "id": 291, "price": 308.62
+  },
+  { "id": 265, "price": 520.32
+  },
+  { "id": 241, "price": 987.53
+  },
+  { "id": 215, "price": 320.95
+  },
+  { "id": 143, "price": 107.39
+  },
+  { "id": 201, "price": 667.38
+  },
+  { "id": 159, "price": 64.94
+  },
+  { "id": 146, "price": 210.41
+  },
+  { "id": 208, "price": 746.02
+  },
+  { "id": 234, "price": 524.26
+  },
+  { "id": 174, "price": 161.24
+  },
+  { "id": 331, "price": 296.2
+  },
+  { "id": 330, "price": 108.05
+  },
+  { "id": 285, "price": 757.44
+  },
+  { "id": 153, "price": 950.51
+  },
+  { "id": 231, "price": 729.56
+  },
+  { "id": 140, "price": 453.5
+  },
+  { "id": 272, "price": 219.32
+  },
+  { "id": 259, "price": 984.14
+  },
+  { "id": 315, "price": 383.43
+  },
+  { "id": 186, "price": 45.88
+  },
+  { "id": 189, "price": 43.29
+  },
+  { "id": 214, "price": 706.66
+  },
+  { "id": 190, "price": 452.86
+  },
+  { "id": 314, "price": 628.76
+  },
+  { "id": 227, "price": 17.45
+  },
+  { "id": 304, "price": 51.08
+  },
+  { "id": 280, "price": 248.48
+  },
+  { "id": 262, "price": 669.36
+  },
+  { "id": 165, "price": 448.41
+  },
+  { "id": 320, "price": 447.17
+  },
+  { "id": 173, "price": 556.39
+  },
+  { "id": 137, "price": 252.49
+  },
+  { "id": 307, "price": 613.22
+  },
+  { "id": 247, "price": 456.8
+  },
+  { "id": 251, "price": 875.39
+  },
+  { "id": 180, "price": 685.46
+  },
+  { "id": 334, "price": 222.76
+  },
+  { "id": 290, "price": 240.98
+  },
+  { "id": 292, "price": 846.53
+  },
+  { "id": 183, "price": 947.76
+  },
+  { "id": 266, "price": 696.67
+  },
+  { "id": 329, "price": 633.23
+  },
+  { "id": 176, "price": 226.32
+  },
+  { "id": 293, "price": 553.87
+  },
+  { "id": 191, "price": 778.67
+  },
+  { "id": 296, "price": 289.23
+  },
+  { "id": 178, "price": 632.63
+  },
+  { "id": 203, "price": 33.67
+  },
+  { "id": 317, "price": 288.12
+  },
+  { "id": 321, "price": 589.98
+  },
+  { "id": 295, "price": 852.8
+  },
+  { "id": 206, "price": 825.91
+  },
+  { "id": 181, "price": 172.78
+  },
+  { "id": 145, "price": 406.48
+  },
+  { "id": 162, "price": 674.98
+  },
+  { "id": 177, "price": 942.85
+  },
+  { "id": 148, "price": 708.28
+  },
+  { "id": 207, "price": 234.95
+  },
+  { "id": 229, "price": 456.22
+  },
+  { "id": 246, "price": 271.06
+  },
+  { "id": 248, "price": 455.33
+  },
+  { "id": 270, "price": 245.91
+  },
+  { "id": 264, "price": 685.82
+  },
+  { "id": 319, "price": 747.55
+  },
+  { "id": 263, "price": 362.78
+  },
+  { "id": 326, "price": 733.86
+  },
+  { "id": 269, "price": 226.48
+  },
+  { "id": 278, "price": 32.26
+  },
+  { "id": 288, "price": 858.04
+  },
+  { "id": 254, "price": 170.03
+  },
+  { "id": 332, "price": 843.7
+  },
+  { "id": 323, "price": 106.67
+  },
+  { "id": 230, "price": 980.86
+  },
+  { "id": 149, "price": 432.2
+  },
+  { "id": 236, "price": 877.28
+  },
+  { "id": 325, "price": 35
+  },
+  { "id": 283, "price": 292.36
+  },
+  { "id": 217, "price": 286.73
+  }
+], "colors": [ { "value": "white", "id": 240
+  },
+  { "value": "black", "id": 226
+  },
+  { "value": "white", "id": 334
+  },
+  { "value": "white", "id": 167
+  },
+  { "value": "white", "id": 156
+  },
+  { "value": "white", "id": 306
+  },
+  { "value": "black", "id": 299
+  },
+  { "value": "black", "id": 307
+  },
+  { "value": "white", "id": 223
+  },
+  { "value": "black", "id": 195
+  },
+  { "value": "blue", "id": 206
+  },
+  { "value": "black", "id": 141
+  },
+  { "value": "black", "id": 291
+  },
+  { "value": "blue", "id": 288
+  },
+  { "value": "blue", "id": 220
+  },
+  { "value": "black", "id": 333
+  },
+  { "value": "blue", "id": 254
+  },
+  { "value": "black", "id": 177
+  },
+  { "value": "blue", "id": 166
+  },
+  { "value": "white", "id": 300
+  },
+  { "value": "black", "id": 313
+  },
+  { "value": "blue", "id": 159
+  },
+  { "value": "white", "id": 311
+  },
+  { "value": "blue", "id": 257
+  },
+  { "value": "black", "id": 219
+  },
+  { "value": "blue", "id": 293
+  },
+  { "value": "white", "id": 189
+  },
+  { "value": "white", "id": 147
+  },
+  { "value": "white", "id": 278
+  },
+  { "value": "blue", "id": 170
+  },
+  { "value": "white", "id": 212
+  },
+  { "value": "black", "id": 146
+  },
+  { "value": "white", "id": 281
+  },
+  { "value": "white", "id": 253
+  },
+  { "value": "blue", "id": 294
+  },
+  { "value": "black", "id": 249
+  },
+  { "value": "blue", "id": 267
+  },
+  { "value": "white", "id": 233
+  },
+  { "value": "white", "id": 216
+  },
+  { "value": "black", "id": 148
+  },
+  { "value": "white", "id": 319
+  },
+  { "value": "black", "id": 188
+  },
+  { "value": "black", "id": 175
+  },
+  { "value": "black", "id": 318
+  },
+  { "value": "white", "id": 270
+  },
+  { "value": "white", "id": 242
+  },
+  { "value": "blue", "id": 330
+  },
+  { "value": "blue", "id": 174
+  },
+  { "value": "blue", "id": 248
+  },
+  { "value": "white", "id": 186
+  },
+  { "value": "black", "id": 202
+  },
+  { "value": "white", "id": 213
+  },
+  { "value": "black", "id": 210
+  },
+  { "value": "white", "id": 310
+  },
+  { "value": "black", "id": 165
+  },
+  { "value": "blue", "id": 266
+  },
+  { "value": "blue", "id": 331
+  },
+  { "value": "blue", "id": 180
+  },
+  { "value": "blue", "id": 326
+  },
+  { "value": "black", "id": 152
+  },
+  { "value": "black", "id": 154
+  },
+  { "value": "blue", "id": 163
+  },
+  { "value": "white", "id": 151
+  },
+  { "value": "blue", "id": 282
+  },
+  { "value": "black", "id": 218
+  },
+  { "value": "blue", "id": 314
+  },
+  { "value": "black", "id": 289
+  },
+  { "value": "white", "id": 260
+  },
+  { "value": "white", "id": 140
+  },
+  { "value": "white", "id": 272
+  },
+  { "value": "black", "id": 194
+  },
+  { "value": "white", "id": 274
+  },
+  { "value": "black", "id": 229
+  },
+  { "value": "white", "id": 275
+  },
+  { "value": "blue", "id": 199
+  },
+  { "value": "white", "id": 224
+  },
+  { "value": "white", "id": 277
+  },
+  { "value": "blue", "id": 325
+  },
+  { "value": "black", "id": 317
+  },
+  { "value": "blue", "id": 280
+  },
+  { "value": "black", "id": 322
+  },
+  { "value": "black", "id": 244
+  },
+  { "value": "black", "id": 201
+  },
+  { "value": "black", "id": 283
+  },
+  { "value": "black", "id": 231
+  },
+  { "value": "blue", "id": 171
+  },
+  { "value": "black", "id": 179
+  },
+  { "value": "blue", "id": 172
+  },
+  { "value": "blue", "id": 298
+  },
+  { "value": "blue", "id": 295
+  },
+  { "value": "white", "id": 263
+  },
+  { "value": "black", "id": 239
+  },
+  { "value": "blue", "id": 183
+  },
+  { "value": "white", "id": 191
+  },
+  { "value": "blue", "id": 142
+  },
+  { "value": "black", "id": 321
+  },
+  { "value": "blue", "id": 198
+  },
+  { "value": "blue", "id": 324
+  },
+  { "value": "black", "id": 222
+  },
+  { "value": "black", "id": 312
+  },
+  { "value": "white", "id": 286
+  },
+  { "value": "black", "id": 268
+  },
+  { "value": "black", "id": 262
+  },
+  { "value": "white", "id": 150
+  },
+  { "value": "blue", "id": 276
+  },
+  { "value": "white", "id": 215
+  },
+  { "value": "black", "id": 279
+  },
+  { "value": "white", "id": 315
+  },
+  { "value": "blue", "id": 290
+  },
+  { "value": "black", "id": 238
+  },
+  { "value": "blue", "id": 221
+  },
+  { "value": "blue", "id": 237
+  },
+  { "value": "black", "id": 247
+  },
+  { "value": "white", "id": 269
+  },
+  { "value": "black", "id": 192
+  },
+  { "value": "white", "id": 287
+  },
+  { "value": "blue", "id": 143
+  },
+  { "value": "black", "id": 214
+  },
+  { "value": "blue", "id": 252
+  },
+  { "value": "black", "id": 144
+  },
+  { "value": "black", "id": 182
+  },
+  { "value": "black", "id": 309
+  },
+  { "value": "black", "id": 320
+  },
+  { "value": "black", "id": 256
+  },
+  { "value": "black", "id": 296
+  },
+  { "value": "blue", "id": 197
+  },
+  { "value": "black", "id": 301
+  },
+  { "value": "white", "id": 217
+  },
+  { "value": "black", "id": 332
+  },
+  { "value": "black", "id": 284
+  },
+  { "value": "blue", "id": 302
+  },
+  { "value": "black", "id": 155
+  },
+  { "value": "blue", "id": 264
+  },
+  { "value": "black", "id": 158
+  },
+  { "value": "black", "id": 243
+  },
+  { "value": "white", "id": 265
+  },
+  { "value": "blue", "id": 203
+  },
+  { "value": "black", "id": 157
+  },
+  { "value": "blue", "id": 145
+  },
+  { "value": "black", "id": 162
+  },
+  { "value": "blue", "id": 209
+  },
+  { "value": "blue", "id": 285
+  },
+  { "value": "white", "id": 328
+  },
+  { "value": "black", "id": 204
+  },
+  { "value": "blue", "id": 225
+  },
+  { "value": "blue", "id": 251
+  },
+  { "value": "white", "id": 304
+  },
+  { "value": "blue", "id": 208
+  },
+  { "value": "white", "id": 329
+  },
+  { "value": "blue", "id": 139
+  },
+  { "value": "black", "id": 178
+  },
+  { "value": "white", "id": 137
+  },
+  { "value": "black", "id": 193
+  },
+  { "value": "black", "id": 176
+  },
+  { "value": "white", "id": 207
+  },
+  { "value": "black", "id": 245
+  },
+  { "value": "white", "id": 138
+  },
+  { "value": "blue", "id": 259
+  },
+  { "value": "black", "id": 205
+  },
+  { "value": "blue", "id": 246
+  },
+  { "value": "black", "id": 211
+  },
+  { "value": "white", "id": 185
+  },
+  { "value": "blue", "id": 173
+  },
+  { "value": "blue", "id": 234
+  },
+  { "value": "blue", "id": 241
+  },
+  { "value": "black", "id": 271
+  },
+  { "value": "black", "id": 323
+  },
+  { "value": "black", "id": 316
+  },
+  { "value": "black", "id": 327
+  },
+  { "value": "blue", "id": 200
+  },
+  { "value": "white", "id": 227
+  },
+  { "value": "black", "id": 161
+  },
+  { "value": "blue", "id": 292
+  },
+  { "value": "blue", "id": 273
+  },
+  { "value": "blue", "id": 261
+  },
+  { "value": "blue", "id": 308
+  },
+  { "value": "black", "id": 160
+  },
+  { "value": "blue", "id": 153
+  },
+  { "value": "black", "id": 164
+  },
+  { "value": "black", "id": 255
+  },
+  { "value": "black", "id": 335
+  },
+  { "value": "black", "id": 187
+  },
+  { "value": "blue", "id": 228
+  },
+  { "value": "white", "id": 303
+  },
+  { "value": "blue", "id": 149
+  },
+  { "value": "blue", "id": 169
+  },
+  { "value": "white", "id": 258
+  },
+  { "value": "white", "id": 230
+  },
+  { "value": "white", "id": 236
+  },
+  { "value": "white", "id": 235
+  },
+  { "value": "white", "id": 190
+  },
+  { "value": "blue", "id": 196
+  },
+  { "value": "black", "id": 250
+  },
+  { "value": "blue", "id": 232
+  },
+  { "value": "blue", "id": 336
+  },
+  { "value": "blue", "id": 168
+  },
+  { "value": "black", "id": 297
+  },
+  { "value": "black", "id": 184
+  },
+  { "value": "blue", "id": 181
+  },
+  { "value": "white", "id": 305
+  }
+], "sizes": [ { "id": "246", "value": 42
+  },
+  { "id": "161", "value": 44
+  },
+  { "id": "261", "value": 43
+  },
+  { "id": "171", "value": 41
+  },
+  { "id": "276", "value": 41
+  },
+  { "id": "150", "value": 42
+  },
+  { "id": "238", "value": 44
+  },
+  { "id": "140", "value": 43
+  },
+  { "id": "216", "value": 42
+  },
+  { "id": "250", "value": 40
+  },
+  { "id": "328", "value": 42
+  },
+  { "id": "177", "value": 41
+  },
+  { "id": "312", "value": 42
+  },
+  { "id": "269", "value": 41
+  },
+  { "id": "241", "value": 43
+  },
+  { "id": "245", "value": 42
+  },
+  { "id": "290", "value": 43
+  },
+  { "id": "206", "value": 42
+  },
+  { "id": "228", "value": 41
+  },
+  { "id": "181", "value": 40
+  },
+  { "id": "254", "value": 42
+  },
+  { "id": "167", "value": 42
+  },
+  { "id": "197", "value": 43
+  },
+  { "id": "166", "value": 42
+  },
+  { "id": "320", "value": 40
+  },
+  { "id": "280", "value": 43
+  },
+  { "id": "326", "value": 44
+  },
+  { "id": "304", "value": 44
+  },
+  { "id": "157", "value": 43
+  },
+  { "id": "298", "value": 41
+  },
+  { "id": "147", "value": 41
+  },
+  { "id": "336", "value": 42
+  },
+  { "id": "295", "value": 43
+  },
+  { "id": "224", "value": 41
+  },
+  { "id": "137", "value": 40
+  },
+  { "id": "255", "value": 42
+  },
+  { "id": "317", "value": 42
+  },
+  { "id": "204", "value": 40
+  },
+  { "id": "300", "value": 41
+  },
+  { "id": "217", "value": 42
+  },
+  { "id": "266", "value": 43
+  },
+  { "id": "180", "value": 42
+  },
+  { "id": "187", "value": 43
+  },
+  { "id": "275", "value": 43
+  },
+  { "id": "282", "value": 44
+  },
+  { "id": "306", "value": 42
+  },
+  { "id": "223", "value": 44
+  },
+  { "id": "309", "value": 43
+  },
+  { "id": "299", "value": 42
+  },
+  { "id": "263", "value": 42
+  },
+  { "id": "195", "value": 40
+  },
+  { "id": "313", "value": 40
+  },
+  { "id": "210", "value": 42
+  },
+  { "id": "198", "value": 41
+  },
+  { "id": "212", "value": 40
+  },
+  { "id": "252", "value": 43
+  },
+  { "id": "141", "value": 44
+  },
+  { "id": "205", "value": 41
+  },
+  { "id": "248", "value": 43
+  },
+  { "id": "253", "value": 43
+  },
+  { "id": "211", "value": 44
+  },
+  { "id": "154", "value": 42
+  },
+  { "id": "222", "value": 41
+  },
+  { "id": "292", "value": 40
+  },
+  { "id": "297", "value": 44
+  },
+  { "id": "220", "value": 43
+  },
+  { "id": "284", "value": 42
+  },
+  { "id": "321", "value": 41
+  },
+  { "id": "173", "value": 43
+  },
+  { "id": "327", "value": 44
+  },
+  { "id": "209", "value": 42
+  },
+  { "id": "213", "value": 44
+  },
+  { "id": "274", "value": 41
+  },
+  { "id": "158", "value": 41
+  },
+  { "id": "249", "value": 40
+  },
+  { "id": "265", "value": 43
+  },
+  { "id": "289", "value": 43
+  },
+  { "id": "203", "value": 44
+  },
+  { "id": "139", "value": 40
+  },
+  { "id": "234", "value": 43
+  },
+  { "id": "278", "value": 42
+  },
+  { "id": "311", "value": 43
+  },
+  { "id": "148", "value": 42
+  },
+  { "id": "146", "value": 40
+  },
+  { "id": "305", "value": 40
+  },
+  { "id": "225", "value": 42
+  },
+  { "id": "318", "value": 42
+  },
+  { "id": "233", "value": 40
+  },
+  { "id": "271", "value": 44
+  },
+  { "id": "301", "value": 42
+  },
+  { "id": "325", "value": 42
+  },
+  { "id": "196", "value": 43
+  },
+  { "id": "296", "value": 42
+  },
+  { "id": "200", "value": 43
+  },
+  { "id": "264", "value": 44
+  },
+  { "id": "219", "value": 42
+  },
+  { "id": "330", "value": 41
+  },
+  { "id": "153", "value": 42
+  },
+  { "id": "291", "value": 40
+  },
+  { "id": "240", "value": 42
+  },
+  { "id": "244", "value": 44
+  },
+  { "id": "270", "value": 40
+  },
+  { "id": "232", "value": 43
+  },
+  { "id": "159", "value": 40
+  },
+  { "id": "163", "value": 43
+  },
+  { "id": "334", "value": 42
+  },
+  { "id": "335", "value": 41
+  },
+  { "id": "283", "value": 41
+  },
+  { "id": "259", "value": 43
+  },
+  { "id": "172", "value": 41
+  },
+  { "id": "260", "value": 41
+  },
+  { "id": "162", "value": 40
+  },
+  { "id": "333", "value": 42
+  },
+  { "id": "286", "value": 41
+  },
+  { "id": "144", "value": 41
+  },
+  { "id": "258", "value": 44
+  },
+  { "id": "314", "value": 43
+  },
+  { "id": "310", "value": 44
+  },
+  { "id": "302", "value": 42
+  },
+  { "id": "192", "value": 40
+  },
+  { "id": "288", "value": 41
+  },
+  { "id": "178", "value": 42
+  },
+  { "id": "199", "value": 43
+  },
+  { "id": "142", "value": 42
+  },
+  { "id": "179", "value": 42
+  },
+  { "id": "239", "value": 42
+  },
+  { "id": "324", "value": 42
+  },
+  { "id": "235", "value": 41
+  },
+  { "id": "169", "value": 43
+  },
+  { "id": "262", "value": 42
+  },
+  { "id": "256", "value": 43
+  },
+  { "id": "214", "value": 44
+  },
+  { "id": "149", "value": 42
+  },
+  { "id": "208", "value": 44
+  },
+  { "id": "183", "value": 41
+  },
+  { "id": "227", "value": 42
+  },
+  { "id": "170", "value": 42
+  },
+  { "id": "207", "value": 44
+  },
+  { "id": "226", "value": 43
+  },
+  { "id": "307", "value": 43
+  },
+  { "id": "281", "value": 44
+  },
+  { "id": "190", "value": 40
+  },
+  { "id": "160", "value": 44
+  },
+  { "id": "176", "value": 41
+  },
+  { "id": "165", "value": 41
+  },
+  { "id": "287", "value": 41
+  },
+  { "id": "191", "value": 40
+  },
+  { "id": "186", "value": 44
+  },
+  { "id": "242", "value": 42
+  },
+  { "id": "322", "value": 44
+  },
+  { "id": "182", "value": 40
+  },
+  { "id": "247", "value": 41
+  },
+  { "id": "201", "value": 42
+  },
+  { "id": "145", "value": 44
+  },
+  { "id": "202", "value": 40
+  },
+  { "id": "277", "value": 41
+  },
+  { "id": "331", "value": 44
+  },
+  { "id": "174", "value": 41
+  },
+  { "id": "184", "value": 43
+  },
+  { "id": "152", "value": 44
+  },
+  { "id": "332", "value": 44
+  },
+  { "id": "236", "value": 40
+  },
+  { "id": "329", "value": 44
+  },
+  { "id": "155", "value": 44
+  },
+  { "id": "218", "value": 40
+  },
+  { "id": "231", "value": 41
+  },
+  { "id": "243", "value": 43
+  },
+  { "id": "315", "value": 44
+  },
+  { "id": "229", "value": 43
+  },
+  { "id": "303", "value": 42
+  },
+  { "id": "285", "value": 41
+  },
+  { "id": "237", "value": 42
+  },
+  { "id": "319", "value": 44
+  },
+  { "id": "164", "value": 40
+  },
+  { "id": "151", "value": 43
+  },
+  { "id": "267", "value": 40
+  },
+  { "id": "272", "value": 44
+  },
+  { "id": "251", "value": 40
+  },
+  { "id": "316", "value": 42
+  },
+  { "id": "185", "value": 41
+  },
+  { "id": "293", "value": 42
+  },
+  { "id": "273", "value": 41
+  },
+  { "id": "268", "value": 41
+  },
+  { "id": "189", "value": 43
+  },
+  { "id": "294", "value": 44
+  },
+  { "id": "323", "value": 44
+  },
+  { "id": "194", "value": 44
+  },
+  { "id": "279", "value": 43
+  },
+  { "id": "156", "value": 43
+  },
+  { "id": "138", "value": 40
+  },
+  { "id": "230", "value": 41
+  },
+  { "id": "215", "value": 42
+  },
+  { "id": "193", "value": 41
+  },
+  { "id": "221", "value": 43
+  },
+  { "id": "257", "value": 42
+  },
+  { "id": "308", "value": 41
+  },
+  { "id": "143", "value": 42
+  },
+  { "id": "188", "value": 42
+  },
+  { "id": "168", "value": 41
+  },
+  { "id": "175", "value": 42
+  }
+]
+}
